@@ -1,0 +1,379 @@
+<http-page executeResourcesDynamically="false" name="/jpetstore"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/jpet/%resources%/recorded-artifacts/71148c1a-660e-4084-88bf-320160ac8a26.zip"
+    slaProfileEnabled="false" thinkTime="4142"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="71148c1a-660e-4084-88bf-320160ac8a26">
+    <embedded-action>4f82d4bb-f614-4047-9767-47e754f52544</embedded-action>
+    <embedded-action>e37c6cbf-6ecc-4938-b95b-1222a8b4fe52</embedded-action>
+    <embedded-action>299c94a4-535c-4e1d-83b8-e1e3fc2b5897</embedded-action>
+    <embedded-action>e828d3b9-446b-4b60-943c-0164be6204e1</embedded-action>
+    <embedded-action>cd697e10-d8a2-4d2e-bc6e-7fe15f0489df</embedded-action>
+    <embedded-action>e832b64f-4b14-42ef-aff8-24ca500d43c7</embedded-action>
+    <embedded-action>01d64179-9766-4238-b0d3-e817344c33b9</embedded-action>
+    <embedded-action>6cdb6d83-12cf-4432-a560-b6ee6ec8d75f</embedded-action>
+    <embedded-action>44e06cf9-7cc5-441d-8835-d37339f68f16</embedded-action>
+    <embedded-action>1955f588-a85d-4973-928f-18781739b271</embedded-action>
+    <embedded-action>cbd71283-742f-44f7-a173-51afc36d1b03</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_71148c1a-660e-4084-88bf-320160ac8a26.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/plain; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore" path="/jpetstore" postType="2"
+    recordedArtifactZipFileName="team/vus/jpet/%resources%/recorded-artifacts/71148c1a-660e-4084-88bf-320160ac8a26.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="practice.neotys.com" slaProfileEnabled="true"
+    slaProfileName="Profile" uid="4f82d4bb-f614-4047-9767-47e754f52544" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4f82d4bb-f614-4047-9767-47e754f52544</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4f82d4bb-f614-4047-9767-47e754f52544.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="_mkto_trk=id:470-GZN-442&amp;token:_mch-neotys.com-1625149135919-65353; _fbp=fb.1.1625149136084.503220501; OptanonAlertBoxClosed=2021-07-01T14:19:17.361Z; mf_user=3903dc4985abc734809e27796411d706|; lng=en; __utmz=179381947.1627437377.32.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); mf_3b3a682d-43f4-42e7-80ea-4767ce513ae5=4715ff0ffe4cc4075b74c29aaa080b5a|092148434324f5ddac6d09f51150c458b9e9ad56.1456198727.1632227268449$092100945e42ae2910505dfc46fad716e0134243.47.1632227280911$092104518533b859314218d8334e433700fc0bbd.47.1632227944559$09211876e3464538949e01395cb7c9b38ebf5775.-2143336809.1632227958485$09212274f5b34ad8fffec4bc5022218ad0b1258e.3583647014.1632227962889$09212929f98750f20fb1de05a1f55dce1019177e.1259233553.1632227969336|1632228362339||9|||1|17.49|93.22468; __utmc=179381947; _ga=GA1.2.133812206.1625149136; _ga_WZ89N6ZSFK=GS1.1.1632881671.15.1.1632881821.0; _gcl_au=1.1.1242717993.1632989131; keyIncomingSource=Web+Direct; keyCampaignId=7010J0000010vKb; keyCampaignStatus=Responded; _gid=GA1.2.293807798.1633335672; OptanonConsent=isIABGlobal=false&amp;datestamp=Mon+Oct+04+2021+17%3A36%3A07+GMT%2B0530+(India+Standard+Time)&amp;version=6.17.0&amp;hosts=&amp;consentId=60edd1f1-52d9-4e91-b879-d417d7495576&amp;interactionCount=2&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&amp;geolocation=%3B&amp;AwaitingReconsent=false; __utma=179381947.133812206.1625149136.1633348354.1633353193.100"/>
+    <header name="Host" value="practice.neotys.com"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://practice.neotys.com/"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 Found&#xd;
+Date: Mon, 04 Oct 2021 14:01:02 GMT&#xd;
+Server: Apache/2.2.15 (CentOS)&#xd;
+Location: http://practice.neotys.com/jpetstore/&#xd;
+Content-Length: 0&#xd;
+Content-Type: text/plain; charset=UTF-8</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="text/html; charset=UTF-8"
+    eTag="W/&quot;1433-1088123460000&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Fri, 25 Jun 2004 00:31:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/" path="/jpetstore/" postType="2"
+    recordedArtifactZipFileName="team/vus/jpet/%resources%/recorded-artifacts/71148c1a-660e-4084-88bf-320160ac8a26.zip"
+    recordedResponseCode="200"
+    refererUid="4f82d4bb-f614-4047-9767-47e754f52544"
+    responseSize="1433" serverUid="practice.neotys.com"
+    slaProfileEnabled="true" slaProfileName="Profile"
+    uid="e37c6cbf-6ecc-4938-b95b-1222a8b4fe52" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e37c6cbf-6ecc-4938-b95b-1222a8b4fe52.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e37c6cbf-6ecc-4938-b95b-1222a8b4fe52.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="_mkto_trk=id:470-GZN-442&amp;token:_mch-neotys.com-1625149135919-65353; _fbp=fb.1.1625149136084.503220501; OptanonAlertBoxClosed=2021-07-01T14:19:17.361Z; mf_user=3903dc4985abc734809e27796411d706|; lng=en; __utmz=179381947.1627437377.32.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); mf_3b3a682d-43f4-42e7-80ea-4767ce513ae5=4715ff0ffe4cc4075b74c29aaa080b5a|092148434324f5ddac6d09f51150c458b9e9ad56.1456198727.1632227268449$092100945e42ae2910505dfc46fad716e0134243.47.1632227280911$092104518533b859314218d8334e433700fc0bbd.47.1632227944559$09211876e3464538949e01395cb7c9b38ebf5775.-2143336809.1632227958485$09212274f5b34ad8fffec4bc5022218ad0b1258e.3583647014.1632227962889$09212929f98750f20fb1de05a1f55dce1019177e.1259233553.1632227969336|1632228362339||9|||1|17.49|93.22468; __utmc=179381947; _ga=GA1.2.133812206.1625149136; _ga_WZ89N6ZSFK=GS1.1.1632881671.15.1.1632881821.0; _gcl_au=1.1.1242717993.1632989131; keyIncomingSource=Web+Direct; keyCampaignId=7010J0000010vKb; keyCampaignStatus=Responded; _gid=GA1.2.293807798.1633335672; OptanonConsent=isIABGlobal=false&amp;datestamp=Mon+Oct+04+2021+17%3A36%3A07+GMT%2B0530+(India+Standard+Time)&amp;version=6.17.0&amp;hosts=&amp;consentId=60edd1f1-52d9-4e91-b879-d417d7495576&amp;interactionCount=2&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&amp;geolocation=%3B&amp;AwaitingReconsent=false; __utma=179381947.133812206.1625149136.1633348354.1633353193.100"/>
+    <header name="Host" value="practice.neotys.com"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://practice.neotys.com/"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 04 Oct 2021 14:01:02 GMT&#xd;
+Server: Apache/2.2.15 (CentOS)&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: W/"1433-1088123460000"&#xd;
+Last-Modified: Fri, 25 Jun 2004 00:31:00 GMT&#xd;
+Content-Length: 1433&#xd;
+Content-Type: text/html; charset=UTF-8</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    eTag="W/&quot;3808-1088123460000&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Fri, 25 Jun 2004 00:31:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/logo-topbar.gif"
+    path="/jpetstore/images/logo-topbar.gif" postType="2"
+    recordedArtifactZipFileName="team/vus/jpet/%resources%/recorded-artifacts/71148c1a-660e-4084-88bf-320160ac8a26.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="practice.neotys.com" slaProfileEnabled="true"
+    slaProfileName="Profile" uid="299c94a4-535c-4e1d-83b8-e1e3fc2b5897" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_299c94a4-535c-4e1d-83b8-e1e3fc2b5897.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_299c94a4-535c-4e1d-83b8-e1e3fc2b5897.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="_mkto_trk=id:470-GZN-442&amp;token:_mch-neotys.com-1625149135919-65353; _fbp=fb.1.1625149136084.503220501; OptanonAlertBoxClosed=2021-07-01T14:19:17.361Z; mf_user=3903dc4985abc734809e27796411d706|; lng=en; __utmz=179381947.1627437377.32.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); mf_3b3a682d-43f4-42e7-80ea-4767ce513ae5=4715ff0ffe4cc4075b74c29aaa080b5a|092148434324f5ddac6d09f51150c458b9e9ad56.1456198727.1632227268449$092100945e42ae2910505dfc46fad716e0134243.47.1632227280911$092104518533b859314218d8334e433700fc0bbd.47.1632227944559$09211876e3464538949e01395cb7c9b38ebf5775.-2143336809.1632227958485$09212274f5b34ad8fffec4bc5022218ad0b1258e.3583647014.1632227962889$09212929f98750f20fb1de05a1f55dce1019177e.1259233553.1632227969336|1632228362339||9|||1|17.49|93.22468; __utmc=179381947; _ga=GA1.2.133812206.1625149136; _ga_WZ89N6ZSFK=GS1.1.1632881671.15.1.1632881821.0; _gcl_au=1.1.1242717993.1632989131; keyIncomingSource=Web+Direct; keyCampaignId=7010J0000010vKb; keyCampaignStatus=Responded; _gid=GA1.2.293807798.1633335672; OptanonConsent=isIABGlobal=false&amp;datestamp=Mon+Oct+04+2021+17%3A36%3A07+GMT%2B0530+(India+Standard+Time)&amp;version=6.17.0&amp;hosts=&amp;consentId=60edd1f1-52d9-4e91-b879-d417d7495576&amp;interactionCount=2&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&amp;geolocation=%3B&amp;AwaitingReconsent=false; __utma=179381947.133812206.1625149136.1633348354.1633353193.100"/>
+    <header name="Host" value="practice.neotys.com"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://practice.neotys.com/jpetstore/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 04 Oct 2021 14:01:02 GMT&#xd;
+Server: Apache/2.2.15 (CentOS)&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: W/"3808-1088123460000"&#xd;
+Last-Modified: Fri, 25 Jun 2004 00:31:00 GMT&#xd;
+Content-Length: 3808&#xd;
+Content-Type: image/gif</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    eTag="W/&quot;96-1088123460000&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 25 Jun 2004 00:31:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/cart.gif"
+    path="/jpetstore/images/cart.gif" postType="2"
+    recordedArtifactZipFileName="team/vus/jpet/%resources%/recorded-artifacts/71148c1a-660e-4084-88bf-320160ac8a26.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="practice.neotys.com" slaProfileEnabled="true"
+    slaProfileName="Profile" uid="e828d3b9-446b-4b60-943c-0164be6204e1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e828d3b9-446b-4b60-943c-0164be6204e1.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e828d3b9-446b-4b60-943c-0164be6204e1.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="_mkto_trk=id:470-GZN-442&amp;token:_mch-neotys.com-1625149135919-65353; _fbp=fb.1.1625149136084.503220501; OptanonAlertBoxClosed=2021-07-01T14:19:17.361Z; mf_user=3903dc4985abc734809e27796411d706|; lng=en; __utmz=179381947.1627437377.32.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); mf_3b3a682d-43f4-42e7-80ea-4767ce513ae5=4715ff0ffe4cc4075b74c29aaa080b5a|092148434324f5ddac6d09f51150c458b9e9ad56.1456198727.1632227268449$092100945e42ae2910505dfc46fad716e0134243.47.1632227280911$092104518533b859314218d8334e433700fc0bbd.47.1632227944559$09211876e3464538949e01395cb7c9b38ebf5775.-2143336809.1632227958485$09212274f5b34ad8fffec4bc5022218ad0b1258e.3583647014.1632227962889$09212929f98750f20fb1de05a1f55dce1019177e.1259233553.1632227969336|1632228362339||9|||1|17.49|93.22468; __utmc=179381947; _ga=GA1.2.133812206.1625149136; _ga_WZ89N6ZSFK=GS1.1.1632881671.15.1.1632881821.0; _gcl_au=1.1.1242717993.1632989131; keyIncomingSource=Web+Direct; keyCampaignId=7010J0000010vKb; keyCampaignStatus=Responded; _gid=GA1.2.293807798.1633335672; OptanonConsent=isIABGlobal=false&amp;datestamp=Mon+Oct+04+2021+17%3A36%3A07+GMT%2B0530+(India+Standard+Time)&amp;version=6.17.0&amp;hosts=&amp;consentId=60edd1f1-52d9-4e91-b879-d417d7495576&amp;interactionCount=2&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&amp;geolocation=%3B&amp;AwaitingReconsent=false; __utma=179381947.133812206.1625149136.1633348354.1633353193.100"/>
+    <header name="Host" value="practice.neotys.com"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://practice.neotys.com/jpetstore/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 04 Oct 2021 14:01:02 GMT&#xd;
+Server: Apache/2.2.15 (CentOS)&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: W/"96-1088123460000"&#xd;
+Last-Modified: Fri, 25 Jun 2004 00:31:00 GMT&#xd;
+Content-Length: 96&#xd;
+Content-Type: image/gif</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    eTag="W/&quot;323-1088123460000&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 25 Jun 2004 00:31:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/search.gif"
+    path="/jpetstore/images/search.gif" postType="2"
+    recordedArtifactZipFileName="team/vus/jpet/%resources%/recorded-artifacts/71148c1a-660e-4084-88bf-320160ac8a26.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="practice.neotys.com" slaProfileEnabled="true"
+    slaProfileName="Profile" uid="cd697e10-d8a2-4d2e-bc6e-7fe15f0489df" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_cd697e10-d8a2-4d2e-bc6e-7fe15f0489df.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_cd697e10-d8a2-4d2e-bc6e-7fe15f0489df.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="_mkto_trk=id:470-GZN-442&amp;token:_mch-neotys.com-1625149135919-65353; _fbp=fb.1.1625149136084.503220501; OptanonAlertBoxClosed=2021-07-01T14:19:17.361Z; mf_user=3903dc4985abc734809e27796411d706|; lng=en; __utmz=179381947.1627437377.32.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); mf_3b3a682d-43f4-42e7-80ea-4767ce513ae5=4715ff0ffe4cc4075b74c29aaa080b5a|092148434324f5ddac6d09f51150c458b9e9ad56.1456198727.1632227268449$092100945e42ae2910505dfc46fad716e0134243.47.1632227280911$092104518533b859314218d8334e433700fc0bbd.47.1632227944559$09211876e3464538949e01395cb7c9b38ebf5775.-2143336809.1632227958485$09212274f5b34ad8fffec4bc5022218ad0b1258e.3583647014.1632227962889$09212929f98750f20fb1de05a1f55dce1019177e.1259233553.1632227969336|1632228362339||9|||1|17.49|93.22468; __utmc=179381947; _ga=GA1.2.133812206.1625149136; _ga_WZ89N6ZSFK=GS1.1.1632881671.15.1.1632881821.0; _gcl_au=1.1.1242717993.1632989131; keyIncomingSource=Web+Direct; keyCampaignId=7010J0000010vKb; keyCampaignStatus=Responded; _gid=GA1.2.293807798.1633335672; OptanonConsent=isIABGlobal=false&amp;datestamp=Mon+Oct+04+2021+17%3A36%3A07+GMT%2B0530+(India+Standard+Time)&amp;version=6.17.0&amp;hosts=&amp;consentId=60edd1f1-52d9-4e91-b879-d417d7495576&amp;interactionCount=2&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&amp;geolocation=%3B&amp;AwaitingReconsent=false; __utma=179381947.133812206.1625149136.1633348354.1633353193.100"/>
+    <header name="Host" value="practice.neotys.com"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://practice.neotys.com/jpetstore/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 04 Oct 2021 14:01:02 GMT&#xd;
+Server: Apache/2.2.15 (CentOS)&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: W/"323-1088123460000"&#xd;
+Last-Modified: Fri, 25 Jun 2004 00:31:00 GMT&#xd;
+Content-Length: 323&#xd;
+Content-Type: image/gif</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    eTag="W/&quot;257-1088123460000&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 25 Jun 2004 00:31:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/sign-in.gif"
+    path="/jpetstore/images/sign-in.gif" postType="2"
+    recordedArtifactZipFileName="team/vus/jpet/%resources%/recorded-artifacts/71148c1a-660e-4084-88bf-320160ac8a26.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="practice.neotys.com" slaProfileEnabled="true"
+    slaProfileName="Profile" uid="e832b64f-4b14-42ef-aff8-24ca500d43c7" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e832b64f-4b14-42ef-aff8-24ca500d43c7.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e832b64f-4b14-42ef-aff8-24ca500d43c7.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="_mkto_trk=id:470-GZN-442&amp;token:_mch-neotys.com-1625149135919-65353; _fbp=fb.1.1625149136084.503220501; OptanonAlertBoxClosed=2021-07-01T14:19:17.361Z; mf_user=3903dc4985abc734809e27796411d706|; lng=en; __utmz=179381947.1627437377.32.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); mf_3b3a682d-43f4-42e7-80ea-4767ce513ae5=4715ff0ffe4cc4075b74c29aaa080b5a|092148434324f5ddac6d09f51150c458b9e9ad56.1456198727.1632227268449$092100945e42ae2910505dfc46fad716e0134243.47.1632227280911$092104518533b859314218d8334e433700fc0bbd.47.1632227944559$09211876e3464538949e01395cb7c9b38ebf5775.-2143336809.1632227958485$09212274f5b34ad8fffec4bc5022218ad0b1258e.3583647014.1632227962889$09212929f98750f20fb1de05a1f55dce1019177e.1259233553.1632227969336|1632228362339||9|||1|17.49|93.22468; __utmc=179381947; _ga=GA1.2.133812206.1625149136; _ga_WZ89N6ZSFK=GS1.1.1632881671.15.1.1632881821.0; _gcl_au=1.1.1242717993.1632989131; keyIncomingSource=Web+Direct; keyCampaignId=7010J0000010vKb; keyCampaignStatus=Responded; _gid=GA1.2.293807798.1633335672; OptanonConsent=isIABGlobal=false&amp;datestamp=Mon+Oct+04+2021+17%3A36%3A07+GMT%2B0530+(India+Standard+Time)&amp;version=6.17.0&amp;hosts=&amp;consentId=60edd1f1-52d9-4e91-b879-d417d7495576&amp;interactionCount=2&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&amp;geolocation=%3B&amp;AwaitingReconsent=false; __utma=179381947.133812206.1625149136.1633348354.1633353193.100"/>
+    <header name="Host" value="practice.neotys.com"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://practice.neotys.com/jpetstore/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 04 Oct 2021 14:01:02 GMT&#xd;
+Server: Apache/2.2.15 (CentOS)&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: W/"257-1088123460000"&#xd;
+Last-Modified: Fri, 25 Jun 2004 00:31:00 GMT&#xd;
+Content-Length: 257&#xd;
+Content-Type: image/gif</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    eTag="W/&quot;46-1088123460000&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 25 Jun 2004 00:31:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/separator.gif"
+    path="/jpetstore/images/separator.gif" postType="2"
+    recordedArtifactZipFileName="team/vus/jpet/%resources%/recorded-artifacts/71148c1a-660e-4084-88bf-320160ac8a26.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="practice.neotys.com" slaProfileEnabled="true"
+    slaProfileName="Profile" uid="01d64179-9766-4238-b0d3-e817344c33b9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_01d64179-9766-4238-b0d3-e817344c33b9.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_01d64179-9766-4238-b0d3-e817344c33b9.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="_mkto_trk=id:470-GZN-442&amp;token:_mch-neotys.com-1625149135919-65353; _fbp=fb.1.1625149136084.503220501; OptanonAlertBoxClosed=2021-07-01T14:19:17.361Z; mf_user=3903dc4985abc734809e27796411d706|; lng=en; __utmz=179381947.1627437377.32.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); mf_3b3a682d-43f4-42e7-80ea-4767ce513ae5=4715ff0ffe4cc4075b74c29aaa080b5a|092148434324f5ddac6d09f51150c458b9e9ad56.1456198727.1632227268449$092100945e42ae2910505dfc46fad716e0134243.47.1632227280911$092104518533b859314218d8334e433700fc0bbd.47.1632227944559$09211876e3464538949e01395cb7c9b38ebf5775.-2143336809.1632227958485$09212274f5b34ad8fffec4bc5022218ad0b1258e.3583647014.1632227962889$09212929f98750f20fb1de05a1f55dce1019177e.1259233553.1632227969336|1632228362339||9|||1|17.49|93.22468; __utmc=179381947; _ga=GA1.2.133812206.1625149136; _ga_WZ89N6ZSFK=GS1.1.1632881671.15.1.1632881821.0; _gcl_au=1.1.1242717993.1632989131; keyIncomingSource=Web+Direct; keyCampaignId=7010J0000010vKb; keyCampaignStatus=Responded; _gid=GA1.2.293807798.1633335672; OptanonConsent=isIABGlobal=false&amp;datestamp=Mon+Oct+04+2021+17%3A36%3A07+GMT%2B0530+(India+Standard+Time)&amp;version=6.17.0&amp;hosts=&amp;consentId=60edd1f1-52d9-4e91-b879-d417d7495576&amp;interactionCount=2&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&amp;geolocation=%3B&amp;AwaitingReconsent=false; __utma=179381947.133812206.1625149136.1633348354.1633353193.100"/>
+    <header name="Host" value="practice.neotys.com"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://practice.neotys.com/jpetstore/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 04 Oct 2021 14:01:02 GMT&#xd;
+Server: Apache/2.2.15 (CentOS)&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: W/"46-1088123460000"&#xd;
+Last-Modified: Fri, 25 Jun 2004 00:31:00 GMT&#xd;
+Content-Length: 46&#xd;
+Content-Type: image/gif</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    eTag="W/&quot;134-1088123460000&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 25 Jun 2004 00:31:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/help.gif"
+    path="/jpetstore/images/help.gif" postType="2"
+    recordedArtifactZipFileName="team/vus/jpet/%resources%/recorded-artifacts/71148c1a-660e-4084-88bf-320160ac8a26.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="practice.neotys.com" slaProfileEnabled="true"
+    slaProfileName="Profile" uid="6cdb6d83-12cf-4432-a560-b6ee6ec8d75f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6cdb6d83-12cf-4432-a560-b6ee6ec8d75f.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6cdb6d83-12cf-4432-a560-b6ee6ec8d75f.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="_mkto_trk=id:470-GZN-442&amp;token:_mch-neotys.com-1625149135919-65353; _fbp=fb.1.1625149136084.503220501; OptanonAlertBoxClosed=2021-07-01T14:19:17.361Z; mf_user=3903dc4985abc734809e27796411d706|; lng=en; __utmz=179381947.1627437377.32.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); mf_3b3a682d-43f4-42e7-80ea-4767ce513ae5=4715ff0ffe4cc4075b74c29aaa080b5a|092148434324f5ddac6d09f51150c458b9e9ad56.1456198727.1632227268449$092100945e42ae2910505dfc46fad716e0134243.47.1632227280911$092104518533b859314218d8334e433700fc0bbd.47.1632227944559$09211876e3464538949e01395cb7c9b38ebf5775.-2143336809.1632227958485$09212274f5b34ad8fffec4bc5022218ad0b1258e.3583647014.1632227962889$09212929f98750f20fb1de05a1f55dce1019177e.1259233553.1632227969336|1632228362339||9|||1|17.49|93.22468; __utmc=179381947; _ga=GA1.2.133812206.1625149136; _ga_WZ89N6ZSFK=GS1.1.1632881671.15.1.1632881821.0; _gcl_au=1.1.1242717993.1632989131; keyIncomingSource=Web+Direct; keyCampaignId=7010J0000010vKb; keyCampaignStatus=Responded; _gid=GA1.2.293807798.1633335672; OptanonConsent=isIABGlobal=false&amp;datestamp=Mon+Oct+04+2021+17%3A36%3A07+GMT%2B0530+(India+Standard+Time)&amp;version=6.17.0&amp;hosts=&amp;consentId=60edd1f1-52d9-4e91-b879-d417d7495576&amp;interactionCount=2&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&amp;geolocation=%3B&amp;AwaitingReconsent=false; __utma=179381947.133812206.1625149136.1633348354.1633353193.100"/>
+    <header name="Host" value="practice.neotys.com"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://practice.neotys.com/jpetstore/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 04 Oct 2021 14:01:02 GMT&#xd;
+Server: Apache/2.2.15 (CentOS)&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: W/"134-1088123460000"&#xd;
+Last-Modified: Fri, 25 Jun 2004 00:31:00 GMT&#xd;
+Content-Length: 134&#xd;
+Content-Type: image/gif</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    eTag="W/&quot;959-1088123460000&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 25 Jun 2004 00:31:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/bkg-topbar.gif"
+    path="/jpetstore/images/bkg-topbar.gif" postType="2"
+    recordedArtifactZipFileName="team/vus/jpet/%resources%/recorded-artifacts/71148c1a-660e-4084-88bf-320160ac8a26.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="practice.neotys.com" slaProfileEnabled="true"
+    slaProfileName="Profile" uid="44e06cf9-7cc5-441d-8835-d37339f68f16" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_44e06cf9-7cc5-441d-8835-d37339f68f16.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_44e06cf9-7cc5-441d-8835-d37339f68f16.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="_mkto_trk=id:470-GZN-442&amp;token:_mch-neotys.com-1625149135919-65353; _fbp=fb.1.1625149136084.503220501; OptanonAlertBoxClosed=2021-07-01T14:19:17.361Z; mf_user=3903dc4985abc734809e27796411d706|; lng=en; __utmz=179381947.1627437377.32.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); mf_3b3a682d-43f4-42e7-80ea-4767ce513ae5=4715ff0ffe4cc4075b74c29aaa080b5a|092148434324f5ddac6d09f51150c458b9e9ad56.1456198727.1632227268449$092100945e42ae2910505dfc46fad716e0134243.47.1632227280911$092104518533b859314218d8334e433700fc0bbd.47.1632227944559$09211876e3464538949e01395cb7c9b38ebf5775.-2143336809.1632227958485$09212274f5b34ad8fffec4bc5022218ad0b1258e.3583647014.1632227962889$09212929f98750f20fb1de05a1f55dce1019177e.1259233553.1632227969336|1632228362339||9|||1|17.49|93.22468; __utmc=179381947; _ga=GA1.2.133812206.1625149136; _ga_WZ89N6ZSFK=GS1.1.1632881671.15.1.1632881821.0; _gcl_au=1.1.1242717993.1632989131; keyIncomingSource=Web+Direct; keyCampaignId=7010J0000010vKb; keyCampaignStatus=Responded; _gid=GA1.2.293807798.1633335672; OptanonConsent=isIABGlobal=false&amp;datestamp=Mon+Oct+04+2021+17%3A36%3A07+GMT%2B0530+(India+Standard+Time)&amp;version=6.17.0&amp;hosts=&amp;consentId=60edd1f1-52d9-4e91-b879-d417d7495576&amp;interactionCount=2&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&amp;geolocation=%3B&amp;AwaitingReconsent=false; __utma=179381947.133812206.1625149136.1633348354.1633353193.100"/>
+    <header name="Host" value="practice.neotys.com"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://practice.neotys.com/jpetstore/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 04 Oct 2021 14:01:02 GMT&#xd;
+Server: Apache/2.2.15 (CentOS)&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: W/"959-1088123460000"&#xd;
+Last-Modified: Fri, 25 Jun 2004 00:31:00 GMT&#xd;
+Content-Length: 959&#xd;
+Content-Type: image/gif</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    eTag="W/&quot;2722-1088123460000&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Fri, 25 Jun 2004 00:31:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/poweredby.gif"
+    path="/jpetstore/images/poweredby.gif" postType="2"
+    recordedArtifactZipFileName="team/vus/jpet/%resources%/recorded-artifacts/71148c1a-660e-4084-88bf-320160ac8a26.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="practice.neotys.com" slaProfileEnabled="true"
+    slaProfileName="Profile" uid="1955f588-a85d-4973-928f-18781739b271" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1955f588-a85d-4973-928f-18781739b271.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1955f588-a85d-4973-928f-18781739b271.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="_mkto_trk=id:470-GZN-442&amp;token:_mch-neotys.com-1625149135919-65353; _fbp=fb.1.1625149136084.503220501; OptanonAlertBoxClosed=2021-07-01T14:19:17.361Z; mf_user=3903dc4985abc734809e27796411d706|; lng=en; __utmz=179381947.1627437377.32.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); mf_3b3a682d-43f4-42e7-80ea-4767ce513ae5=4715ff0ffe4cc4075b74c29aaa080b5a|092148434324f5ddac6d09f51150c458b9e9ad56.1456198727.1632227268449$092100945e42ae2910505dfc46fad716e0134243.47.1632227280911$092104518533b859314218d8334e433700fc0bbd.47.1632227944559$09211876e3464538949e01395cb7c9b38ebf5775.-2143336809.1632227958485$09212274f5b34ad8fffec4bc5022218ad0b1258e.3583647014.1632227962889$09212929f98750f20fb1de05a1f55dce1019177e.1259233553.1632227969336|1632228362339||9|||1|17.49|93.22468; __utmc=179381947; _ga=GA1.2.133812206.1625149136; _ga_WZ89N6ZSFK=GS1.1.1632881671.15.1.1632881821.0; _gcl_au=1.1.1242717993.1632989131; keyIncomingSource=Web+Direct; keyCampaignId=7010J0000010vKb; keyCampaignStatus=Responded; _gid=GA1.2.293807798.1633335672; OptanonConsent=isIABGlobal=false&amp;datestamp=Mon+Oct+04+2021+17%3A36%3A07+GMT%2B0530+(India+Standard+Time)&amp;version=6.17.0&amp;hosts=&amp;consentId=60edd1f1-52d9-4e91-b879-d417d7495576&amp;interactionCount=2&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&amp;geolocation=%3B&amp;AwaitingReconsent=false; __utma=179381947.133812206.1625149136.1633348354.1633353193.100"/>
+    <header name="Host" value="practice.neotys.com"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://practice.neotys.com/jpetstore/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 04 Oct 2021 14:01:02 GMT&#xd;
+Server: Apache/2.2.15 (CentOS)&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: W/"2722-1088123460000"&#xd;
+Last-Modified: Fri, 25 Jun 2004 00:31:00 GMT&#xd;
+Content-Length: 2722&#xd;
+Content-Type: image/gif</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/vnd.microsoft.icon"
+    eTag="&quot;a09bc-547e-4e0150c693880&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 26 Jun 2013 21:08:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/favicon.ico" path="/favicon.ico" postType="2"
+    recordedArtifactZipFileName="team/vus/jpet/%resources%/recorded-artifacts/71148c1a-660e-4084-88bf-320160ac8a26.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="practice.neotys.com" slaProfileEnabled="true"
+    slaProfileName="Profile" uid="cbd71283-742f-44f7-a173-51afc36d1b03" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_cbd71283-742f-44f7-a173-51afc36d1b03</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_cbd71283-742f-44f7-a173-51afc36d1b03.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="_mkto_trk=id:470-GZN-442&amp;token:_mch-neotys.com-1625149135919-65353; _fbp=fb.1.1625149136084.503220501; OptanonAlertBoxClosed=2021-07-01T14:19:17.361Z; mf_user=3903dc4985abc734809e27796411d706|; lng=en; __utmz=179381947.1627437377.32.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); mf_3b3a682d-43f4-42e7-80ea-4767ce513ae5=4715ff0ffe4cc4075b74c29aaa080b5a|092148434324f5ddac6d09f51150c458b9e9ad56.1456198727.1632227268449$092100945e42ae2910505dfc46fad716e0134243.47.1632227280911$092104518533b859314218d8334e433700fc0bbd.47.1632227944559$09211876e3464538949e01395cb7c9b38ebf5775.-2143336809.1632227958485$09212274f5b34ad8fffec4bc5022218ad0b1258e.3583647014.1632227962889$09212929f98750f20fb1de05a1f55dce1019177e.1259233553.1632227969336|1632228362339||9|||1|17.49|93.22468; __utmc=179381947; _ga=GA1.2.133812206.1625149136; _ga_WZ89N6ZSFK=GS1.1.1632881671.15.1.1632881821.0; _gcl_au=1.1.1242717993.1632989131; keyIncomingSource=Web+Direct; keyCampaignId=7010J0000010vKb; keyCampaignStatus=Responded; _gid=GA1.2.293807798.1633335672; OptanonConsent=isIABGlobal=false&amp;datestamp=Mon+Oct+04+2021+17%3A36%3A07+GMT%2B0530+(India+Standard+Time)&amp;version=6.17.0&amp;hosts=&amp;consentId=60edd1f1-52d9-4e91-b879-d417d7495576&amp;interactionCount=2&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&amp;geolocation=%3B&amp;AwaitingReconsent=false; __utma=179381947.133812206.1625149136.1633348354.1633353193.100"/>
+    <header name="Host" value="practice.neotys.com"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://practice.neotys.com/jpetstore/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 04 Oct 2021 14:01:03 GMT&#xd;
+Server: Apache/2.2.15 (CentOS)&#xd;
+Last-Modified: Wed, 26 Jun 2013 21:08:34 GMT&#xd;
+ETag: "a09bc-547e-4e0150c693880"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 21630&#xd;
+Content-Type: image/vnd.microsoft.icon</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

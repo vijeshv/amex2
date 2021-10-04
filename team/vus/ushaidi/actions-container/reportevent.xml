@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="reportevent" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="27bdad19-21a6-4100-840a-ae463f559b3a" weightsEnabled="false">
+    <weighted-embedded-action uid="9b22138b-0592-4b6f-be9d-e9fc62e9f0bd"/>
+</basic-logical-action-container>

@@ -1,0 +1,93 @@
+<http-page executeResourcesDynamically="false" name="/json/cluster"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/ushaidi/%resources%/recorded-artifacts/168eefb2-8f23-476c-9c6e-e6faa53bc354.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="168eefb2-8f23-476c-9c6e-e6faa53bc354">
+    <embedded-action>cc3f55bd-dadb-48c7-b4bf-db53edfcd70f</embedded-action>
+    <embedded-action>e907da20-ceab-4999-996f-4cc263c9c394</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_168eefb2-8f23-476c-9c6e-e6faa53bc354.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/json/cluster" path="/json/cluster" postType="1"
+    recordedArtifactZipFileName="team/vus/ushaidi/%resources%/recorded-artifacts/168eefb2-8f23-476c-9c6e-e6faa53bc354.zip"
+    recordedResponseCode="200" responseSize="169"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="cc3f55bd-dadb-48c7-b4bf-db53edfcd70f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_cc3f55bd-dadb-48c7-b4bf-db53edfcd70f.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_cc3f55bd-dadb-48c7-b4bf-db53edfcd70f.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="z"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Cookie" value="keyCampaignStatus=Responded; _mkto_trk=id:863-AGR-996&amp;token:_mch-neotys.com-1550552667067-46615; _ga=GA1.2.454596787.1550552668; _fbp=fb.1.1550552668379.84070352; mf_user=39f7a585e468c3f2a210350f70262b39|; keyIncomingSource=Web+Direct; keyCampaignId=7010J000001VeHe; keyReferrer=https%3A%2F%2Fwww.google.com%2F; keyKeywords=NW%3A+Search+KW%3A+; _gcl_au=1.1.187446469.1558352723; rxVisitor=1558596550569UTHED32A66F86GB0J8OP1ORGTUV52P9R; __utmc=179381947; ushahidi=od6at27mtvo6td61t61392glr1; __utmc=254652684; __utmz=179381947.1558677658.83.5.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); _gid=GA1.2.1100545240.1558949313; __utma=179381947.454596787.1550552668.1559042640.1559045848.89; dtLatC=1; dtSa=-; dtCookie=5$B185562EF14BD6E108C6058F5B274C5C|522875fdd3fa12d3|1|ea7c4b59f27d43eb|1; __utma=254652684.454596787.1550552668.1558656933.1559191816.6; __utmz=254652684.1559191816.6.2.utmcsr=neotys.com|utmccn=(referral)|utmcmd=referral|utmcct=/recorder.html; __utmt=1; rxvt=1559193767698|1559191967698; dtPC=5$477655168_75h-vLENMEPDUIGCTLHIEJJSHJDPIMNDCBSES; __utmb=254652684.8.10.1559191816"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/main"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Thu, 30 May 2019 04:53:35 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+X-Powered-By: PHP/5.3.3-7+squeeze19&#xd;
+Expires: Thu, 19 Nov 1981 08:52:00 GMT&#xd;
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0&#xd;
+Pragma: no-cache&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Type: text/html; charset=UTF-8&#xd;
+Set-Cookie: ushahidi=od6at27mtvo6td61t61392glr1; path=/; httponly&#xd;
+Transfer-Encoding: chunked</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/maps/api/js/AuthenticationService.Authenticate"
+    path="/maps/api/js/AuthenticationService.Authenticate" postType="1"
+    recordedArtifactZipFileName="team/vus/ushaidi/%resources%/recorded-artifacts/168eefb2-8f23-476c-9c6e-e6faa53bc354.zip"
+    recordedResponseCode="200" responseSize="62"
+    serverUid="maps.googleapis.com" slaProfileEnabled="false"
+    uid="e907da20-ceab-4999-996f-4cc263c9c394" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e907da20-ceab-4999-996f-4cc263c9c394</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e907da20-ceab-4999-996f-4cc263c9c394.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true"
+        name="1shttp://ushahidi.demo.neotys.com/main" recordRawValue=""
+        separator="" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="5shttp://ushahidi.demo.neotys.com/main" recordRawValue=""
+        separator="" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="callback"
+        recordRawValue="_xdc_._mo0il3" separator="="
+        value="_xdc_._mo0il3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="token"
+        recordRawValue="16516" separator="=" value="16516" valueMode="USE_VALUE"/>
+    <header name="referer" value="http://ushahidi.demo.neotys.com/main"/>
+    <header name="accept-language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="x-client-data" value="CJG2yQEIpLbJAQjBtskBCKmdygEIqKPKAQixp8oBCOKoygEI8anKAQjyqcoBCMatygE="/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/javascript; charset=UTF-8&#xd;
+date: Thu, 30 May 2019 04:56:03 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, must-revalidate&#xd;
+content-disposition: attachment&#xd;
+content-encoding: gzip&#xd;
+server: mafe&#xd;
+content-length: 63&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+server-timing: gfet4t7; dur=3&#xd;
+alt-svc: quic=":443"; ma=2592000; v="46,44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

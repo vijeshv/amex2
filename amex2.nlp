@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=amex2
+project.version=8.2
+project.original.version=6.5
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=6.8.0
+project.id=6595b041-a96f-4ba1-9183-e3cfcf9915cf
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/vijeshv/amex2.git

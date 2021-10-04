@@ -1,0 +1,12 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="signin" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="ee05fbd7-0fa3-4e3f-be55-5b961697630b" weightsEnabled="false">
+    <weighted-embedded-action uid="26fb4b43-8cc1-4c08-87e0-b0b4f8028bd2"/>
+    <weighted-embedded-action uid="43fd156c-417b-4ad3-884e-59a06199909d"/>
+    <weighted-embedded-action uid="5b707387-fdc2-4052-b99b-2c6501539abf"/>
+    <weighted-embedded-action uid="7029d0c7-e7e5-4b17-9bb6-ee5bb3990964"/>
+    <weighted-embedded-action uid="a4273a1b-72f9-48ae-b910-c314be7c53bf"/>
+    <weighted-embedded-action uid="6fe871aa-b1f0-4089-979d-da105fbe77c8"/>
+    <weighted-embedded-action uid="e471e048-bc72-4e20-bc7a-a86cb633c96d"/>
+</basic-logical-action-container>

@@ -1,0 +1,39 @@
+<http-page executeResourcesDynamically="false"
+    name="/jpetstore/shop/signonForm.shtml"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/jpet/%resources%/recorded-artifacts/0b0bcd43-6d49-4238-82f2-3fd36157a742.zip"
+    slaProfileEnabled="false" thinkTime="3623"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="0b0bcd43-6d49-4238-82f2-3fd36157a742">
+    <embedded-action>023a55f0-eb24-4855-b49e-f91e4ab90280</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_0b0bcd43-6d49-4238-82f2-3fd36157a742.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/shop/signonForm.shtml"
+    path="/jpetstore/shop/signonForm.shtml" postType="2"
+    recordedArtifactZipFileName="team/vus/jpet/%resources%/recorded-artifacts/0b0bcd43-6d49-4238-82f2-3fd36157a742.zip"
+    recordedResponseCode="200" responseSize="3183"
+    serverUid="practice.neotys.com" slaProfileEnabled="true"
+    slaProfileName="Profile" uid="023a55f0-eb24-4855-b49e-f91e4ab90280" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_023a55f0-eb24-4855-b49e-f91e4ab90280.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_023a55f0-eb24-4855-b49e-f91e4ab90280.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=0214FAC62903E7EEB5CB56C674A0C51B; _mkto_trk=id:470-GZN-442&amp;token:_mch-neotys.com-1625149135919-65353; _fbp=fb.1.1625149136084.503220501; OptanonAlertBoxClosed=2021-07-01T14:19:17.361Z; mf_user=3903dc4985abc734809e27796411d706|; lng=en; __utmz=179381947.1627437377.32.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); mf_3b3a682d-43f4-42e7-80ea-4767ce513ae5=4715ff0ffe4cc4075b74c29aaa080b5a|092148434324f5ddac6d09f51150c458b9e9ad56.1456198727.1632227268449$092100945e42ae2910505dfc46fad716e0134243.47.1632227280911$092104518533b859314218d8334e433700fc0bbd.47.1632227944559$09211876e3464538949e01395cb7c9b38ebf5775.-2143336809.1632227958485$09212274f5b34ad8fffec4bc5022218ad0b1258e.3583647014.1632227962889$09212929f98750f20fb1de05a1f55dce1019177e.1259233553.1632227969336|1632228362339||9|||1|17.49|93.22468; __utmc=179381947; _ga=GA1.2.133812206.1625149136; _ga_WZ89N6ZSFK=GS1.1.1632881671.15.1.1632881821.0; _gcl_au=1.1.1242717993.1632989131; keyIncomingSource=Web+Direct; keyCampaignId=7010J0000010vKb; keyCampaignStatus=Responded; _gid=GA1.2.293807798.1633335672; OptanonConsent=isIABGlobal=false&amp;datestamp=Mon+Oct+04+2021+17%3A36%3A07+GMT%2B0530+(India+Standard+Time)&amp;version=6.17.0&amp;hosts=&amp;consentId=60edd1f1-52d9-4e91-b879-d417d7495576&amp;interactionCount=2&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&amp;geolocation=%3B&amp;AwaitingReconsent=false; __utma=179381947.133812206.1625149136.1633348354.1633353193.100"/>
+    <header name="Host" value="practice.neotys.com"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://practice.neotys.com/jpetstore/shop/signon.shtml"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 04 Oct 2021 14:01:50 GMT&#xd;
+Server: Apache/2.2.15 (CentOS)&#xd;
+Content-Length: 3183&#xd;
+Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
